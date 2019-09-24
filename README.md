@@ -1,5 +1,6 @@
-# UVA Library Research Data Services Workshops
-Repository to host materials for the [UVA Library Research Data Services](https://data.library.virginia.edu/) modules created by Jennifer Huck:
-* Intro to R.
+# Jenn Huck
+Repository to host materials for Jenn Huck
+* About
+* Workshops
 
-An accompanying website is at [https://jennhuck.github.io/](https://jennhuck.github.io/).
+Accompanying website is at [https://jennhuck.github.io/](https://jennhuck.github.io/).
